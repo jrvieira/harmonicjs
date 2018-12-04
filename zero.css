@@ -1,0 +1,20 @@
+body {
+	margin: 0;
+}
+
+#linevalue {
+	position: fixed;
+	z-index: 1;
+	color: white;
+	background-color: #424242;
+	padding: 3px 4px;
+	font: x-small "Lucida Grande", Lucida, Verdana, sans-serif;
+}
+
+#liner {
+	height: 1px;
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+	position: fixed;
+	z-index: 1;
+}
